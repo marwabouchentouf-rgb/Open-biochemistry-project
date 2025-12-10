@@ -1,4 +1,2 @@
 # My first GitHub Project 
-this file was added to  enable codespaces
-
-hhhhhjj
+this file was added to  enable codespac
