@@ -49,3 +49,9 @@ df["Nb_G"] = df["Séquence"].apply(lambda seq:   seq.count("G"))
 # 7) Écart-type
 print("\nÉcart-type %GC :", df["Pourcentage GC"].std())
 print("Écart-type Longueur :", df["Longueur"].std())
+
+# 8) Sauvegarde le tableau final dans un fichier CSV
+df.to_csv("resultats_biochem.csv", index=False) 
+
+print("\n=== Tableau final ===") 
+print(df,"\n") 
