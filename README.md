@@ -1,7 +1,7 @@
 # My first GitHub Project 
-# Chef de projet: Bouchentouf marwa, Master1biochimie , (6/12/2025)
+# Chef de projet: Bouchentouf marwa, Master1 Biochimie , (6/12/2025)
 # Membres  de l'équipe:
-# lashef wafaa
+# leshaf wafaa
 # Bouayed meryem
 # belarbi dounia
 # belarbi hanane
