@@ -37,7 +37,7 @@ def catégorie_gc(gc):
     if gc > 55:
        return "Riche".
     elif gc >= 45:
-        return "Moyen"
+       return "Moyen"
     else:
         return "Faible"
         
