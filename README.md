@@ -37,7 +37,7 @@ def catégorie_gc(gc):
     if gc > 55:
        return "Riche"
     elif gc >= 45:
-        return "Moyenne"
+        return "Moyen"
     else:
         return "Faible"
 df["catégorie GC"] = df["pourcentage GC"].apply(catégorie_gc)
