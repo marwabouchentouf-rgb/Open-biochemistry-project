@@ -35,7 +35,7 @@ print(f"\nPourcentage moyen GC : {moyenne_gc:.3f}%", "\n\n")
 # 5) catégorie GC
 def catégorie_gc(gc):
     if gc > 55:
-       return "Riche"
+       return "Riche".
     elif gc >= 45:
         return "Moyen"
     else:
@@ -43,3 +43,5 @@ def catégorie_gc(gc):
         
 df["catégorie GC"] = df["pourcentage GC"].apply(catégorie_gc)
          
+# 6) Nombre de G
+df["Nb_G"] = df["Séquence"].apply(lambda seq:sec.count("G"))
