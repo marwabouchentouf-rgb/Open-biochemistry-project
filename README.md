@@ -31,3 +31,14 @@ print(df[df["longueur"] > 10], "\n\n")
 # 4) Moyenne %GC (3 décimales)
 moyenne_gc = df["pourcentage GC"].mean()
 print(f"\nPourcentage moyen GC : {moyenne_gc:.3f}%", "\n\n")
+
+# 5) catégorie GC
+def catégorie_gc(gc):
+    if gc > 55:
+       return"rich "
+    elif gc >= 45:
+        return "moyenne"
+    else:
+        return "faible"
+df["catégorie GC"] = df["pourcentage GC"].apply(catégorie_gc)
+         
