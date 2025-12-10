@@ -40,5 +40,6 @@ def catégorie_gc(gc):
         return "Moyen"
     else:
         return "Faible"
+        
 df["catégorie GC"] = df["pourcentage GC"].apply(catégorie_gc)
          
