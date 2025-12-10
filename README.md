@@ -35,7 +35,7 @@ print(f"\nPourcentage moyen GC : {moyenne_gc:.3f}%", "\n\n")
 # 5) catégorie GC
 def catégorie_gc(gc):
     if gc > 55:
-       return "Rich "
+       return "Riche"
     elif gc >= 45:
         return "Moyenne"
     else:
