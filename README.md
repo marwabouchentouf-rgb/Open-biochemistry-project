@@ -44,4 +44,4 @@ def catégorie_gc(gc):
 df["catégorie GC"] = df["pourcentage GC"].apply(catégorie_gc)
          
 # 6) Nombre de G
-df["Nb_G"] = df["Séquence"].apply(lambda seq:  seq.count("G"))
+df["Nb_G"] = df["Séquence"].apply(lambda seq:     seq.count("G"))
