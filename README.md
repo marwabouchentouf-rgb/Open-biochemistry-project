@@ -1,14 +1,14 @@
 # My first GitHub Project 
 # Chef de projet: Bouchentouf marwa, Master1 Biochimie , (6/12/2025)
 # Membres  de l'équipe:
-# Leshaf wafa
+# Leshaf wafaa
 # Bouayed meryem
 # belarbi dounia
 # belarbi hanane
 # bennaceur douaa fatima zohra 
 import pandas as pd
 
-# 1) Données: Séquences ADN, Longueur, Pourcentage de GC
+# _Données: Séquences ADN, Longueur, Pourcentage de GC
 data = {
         "Séquence": ["ATGCGTACGTA", "GCTAGCTAGGCC", "ATGCGCGTAAGT","TACGATCGTA", "ATGAAAGGCTT", "CGTACGTAGC", "TTAACCGGAT"],
         "Longueur": [12, 12, 12, 10, 11, 10, 10],
