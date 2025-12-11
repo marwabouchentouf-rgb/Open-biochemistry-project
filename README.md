@@ -5,7 +5,7 @@
 # Bouayed meryem
 # belarbi dounia
 # belarbi hanane
-# bennaceur fatima zohra douaa
+# bennaceur douaa fatima zohra 
 import pandas as pd
 
 # 1) Données: Séquences ADN, Longueur, Pourcentage de GC
