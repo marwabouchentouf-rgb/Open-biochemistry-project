@@ -52,7 +52,6 @@ print("Écart-type Longueur :", df["Longueur"].std())
 
 # 8) Sauvegarde le tableau final dans un fichier CSV
 df.to_csv("resultats_biochem.csv", index=False)
-
 print("\n=== Tableau final ===")
 print(df,"\n")
 
