@@ -1,6 +1,6 @@
-# Chef de projet: Bouchentouf marwa, Master1biochimie , (6/12/2025)
+# Chef de projet: Bouchentouf Marwa, Master1biochimie , (6/12/2025)
 # Membres  de l'équipe:
-# lashef waffa
+# leshaf wafa
 # Bouayed meryem
 # belarbi dounia
 # belarbi hanane
