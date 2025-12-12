@@ -24,7 +24,7 @@ print(df)
 print("\n=== Colonne Longueur ===")
 print(df["Longueur"])
 
-# 3) filtrage longueur > 10
+# 3) filtrage longueur >10
 print("\n=== séquences longueur > 10 ===")
 print(df[df["longueur"] > 10], "\n\n")
 
