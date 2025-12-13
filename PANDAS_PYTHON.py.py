@@ -1,5 +1,5 @@
-# pandas M1 biochimie bouchantouf marwa . marwabouchentouf-rgb/Open-biochemistry-project
-# Chef de projet: Bouchentouf Marwa, Master1biochimie , (6/12/2025)
+# PANDAS With M1 biochimie Bouchentouf Marwa, marwabouchentouf-rgb/Open-biochemistry-project
+# Master1 Biochimie , (6/12/2025)
 # Membres  de l'équipe:
 # leshaf wafa
 # Bouayed meryem
