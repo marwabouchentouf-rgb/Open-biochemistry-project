@@ -61,5 +61,3 @@ print(df,"\n")
 
 
 
-print("\n=== Tableau final ===") 
-print(df,"\n")
