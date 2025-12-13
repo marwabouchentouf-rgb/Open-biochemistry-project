@@ -1,5 +1,5 @@
-# My first GitHub Project
-# Chef de projet: Bouchentouf Marwa, Master1 Biochimie , (06/12/2025)
+# PANDAS with M1 Biochimie Bouchentouf Marwa, marwabouchentouf-rgb/open-biochimistery-project
+# Master1 Biochimie , (06/12/2025)
 # Membres  de l'équipe:
 # Leshaf wafa
 # Bouayed meryem
